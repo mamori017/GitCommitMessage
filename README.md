@@ -1,0 +1,2 @@
+# GitCommitMessage
+Git commit message
