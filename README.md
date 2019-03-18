@@ -7,6 +7,10 @@
 [![Release](https://img.shields.io/github/release/mamori017/GitCommitMessage.svg)](https://github.com/mamori017/GitCommitMessage/releases/latest)
 [![License](https://img.shields.io/github/license/mamori017/GitCommitMessage.svg)](https://github.com/mamori017/GitCommitMessage/blob/master/LICENSE)
 
+
+![img](https://user-images.githubusercontent.com/7507701/54509612-7e518980-498d-11e9-91fb-d2a0449c70e0.png)
+
+
 ## Overview
 
 コンテキストメニューにGitコミットメッセージを表示する
@@ -17,7 +21,7 @@
 
 ## Usage
 
-- コンテキストメニューを選択するとコミットメッセージのテンプレートがコピーされる
+- コンテキストメニューから各項目を選択すると、コミットメッセージのテンプレートがクリップボードにコピーされる
 
 - コンテキストメニュー"Close"でアプリケーションを終了する
 
